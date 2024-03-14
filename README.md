@@ -19,27 +19,28 @@ _Signature Pad is a simple and user-friendly interface for drawing signatures on
 
 ## Features:
 
-Draw signatures on a canvas using mouse or touch input
-Change text color, background color, and font size
-Clear the canvas and start over
-Save signature as an image file
-Retrieve previously saved signatures from local storage
+- Draw signatures on a canvas using mouse or touch input
+- Change text color, background color, and font size
+-  the canvas and start over
+- Save signature as an image file
+- Retrieve previously saved signatures from local storage
 
 ## Use Cases:
 
-Signing electronic documents
-Creating custom signatures for websites or applications
-Practicing one's signature
-Creating personalized artwork or designs
+- Signing electronic documents
+- Creating custom signatures for websites or applications
+- Practicing one's signature
+- Creating personalized artwork or designs
 
 ## Target Audience:
 
-Individuals who need to sign electronic documents
-Website or application developers who need custom signatures
-Artists or designers who want to create personalized artwork or designs
-Future Enhancements:
+- Individuals who need to sign electronic documents.
+- Website or application developers who need custom signatures.
+- Artists or designers who want to create personalized artwork or designs.
 
-Adding more customization options for the signature, such as line thickness, line style, and text style
-Integrating with third-party applications or services for signing electronic documents
-Adding a feature to export the signature as a vector graphic or a different image format
-Implementing a feature to import signatures from external sources, such as a camera or a scanner.
+## Future Enhancements:
+
+- Adding more customization options for the signature, such as line thickness, line style, and text style
+- Integrating with third-party applications or services for signing electronic documents
+- Adding a feature to export the signature as a vector graphic or a different image format
+- Implementing a feature to import signatures from external sources, such as a camera or a scanner.
